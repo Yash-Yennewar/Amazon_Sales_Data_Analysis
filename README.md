@@ -1,4 +1,4 @@
-# Excel Project by Yash Yennewar
+# 💡Excel Project by Yash Yennewar
 
 # 📊 Amazon Sales Data Analysis
 An interactive Excel dashboard that analyzes Amazon sales performance across time, products, categories, and regions to deliver clear business insights.<br>
